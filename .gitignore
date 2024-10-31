@@ -1,0 +1,29 @@
+# Synthetic data
+sst2_synthetic_*.json
+
+# Original test set
+sst2_test.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# SST-2 dataset
+SST-2.zip
+SST-2/
